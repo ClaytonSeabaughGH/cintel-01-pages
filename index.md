@@ -10,7 +10,7 @@ Here's a clickable link: [My favorite Musician](https://en.wikipedia.org/wiki/Ed
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
+![Picture of Eden](Jonathon_Ng_on_his_tour_in_Los_Angeles,_April_2016.jpg)
 
 ## Reminders
 
