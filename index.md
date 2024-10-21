@@ -4,7 +4,7 @@ My first website using Markdown and GitHub Pages.
 
 ## Links 
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+Here's a clickable link: [My favorite Musician](https://en.wikipedia.org/wiki/Eden_(Irish_musician))
 
 ## Images
 
